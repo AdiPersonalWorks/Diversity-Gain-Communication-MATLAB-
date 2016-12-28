@@ -1,0 +1,6 @@
+Follow these steps in order to run the code:
+
+1. Run the DiversityGain.m file.
+2. A window will open up with certain buttons. Click on each of them one at a time to observe the various outputs.
+3. It might take 1-2 mins for computation depending on speed on the PC so please do not assume that nothing is happening.
+4. At the end of every step a plot will be shown.
